@@ -60,7 +60,7 @@ Model	Accuracy
 ANN	~55-60%
 CNN	~70-75%
 
-    Note: CNN performs better as it captures spatial features using convolutional layers.
+Note: CNN performs better as it captures spatial features using convolutional layers.
 
 📸 Sample Prediction
 
