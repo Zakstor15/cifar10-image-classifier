@@ -39,22 +39,22 @@ This project includes:
 Install dependencies with:
 ```bash
 pip install tensorflow matplotlib seaborn scikit-learn
-
+```
 🚀 Getting Started
 
 Clone this repo and run the notebook or script:
-
+```
 git clone https://github.com/Mueez-lab/cifar10-image-classifier.git
 cd cifar10-image-classifier
-
+```
 Run the Python notebook:
-
+```
 jupyter notebook
-
+```
 Or run the Python file:
-
+```
 python main.py
-
+```
 📊 Model Comparison
 Model	Accuracy
 ANN	~55-60%
